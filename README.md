@@ -5,6 +5,7 @@
 ### Конспекты: 
 1. [Введение в matplotlib](https://github.com/EvgrafovMichail/plt/blob/main/matplotlib_1.ipynb)
 2. [Работа с рисунками. Элементы рисунка](https://github.com/EvgrafovMichail/plt/blob/main/matplotlib_2.ipynb)
+
 3.1 [Столбчатые диаграммы](https://github.com/EvgrafovMichail/plt/blob/main/matplotlib_3_1_diagramms_bars.ipynb)
 3.2 [Круговые диаграммы](https://github.com/EvgrafovMichail/plt/blob/main/matplotlib_3_2_diagramms_pies.ipynb)
 
