@@ -7,6 +7,7 @@
 2. [Работа с рисунками. Элементы рисунка](https://github.com/EvgrafovMichail/plt/blob/main/matplotlib_2.ipynb)
 3. [Столбчатые диаграммы](https://github.com/EvgrafovMichail/plt/blob/main/matplotlib_3_1_diagramms_bars.ipynb)
 4. [Круговые диаграммы](https://github.com/EvgrafovMichail/plt/blob/main/matplotlib_3_2_diagramms_pies.ipynb)
+5. [Анимации. FuncAnimation.](https://github.com/EvgrafovMichail/plt/blob/main/matplotlib_4.ipynb)
 
 ### Выполнение практических заданий:
 1. [Метод наименьших квадратов для линейных функций](https://github.com/EvgrafovMichail/plt/blob/main/matplotlib_task_1_linear_mnk.ipynb)
