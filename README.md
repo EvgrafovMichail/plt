@@ -15,3 +15,4 @@
 3. [Лабораторная работа №4.3.1](https://github.com/EvgrafovMichail/plt/blob/main/matplotlib_lab_431.ipynb)
 4. [Первое задание на курсе Компьютерного моделирования](https://github.com/EvgrafovMichail/plt/blob/main/matplotlib_evgrafov_michail_915.ipynb)
 5. [Лабораторная работа №223](https://github.com/EvgrafovMichail/plt/blob/main/223/matplotlib_lab_223.ipynb)
+6. [Лабораторная работа №232](https://github.com/EvgrafovMichail/plt/blob/main/232/matplotlib_lab_232.ipynb)
