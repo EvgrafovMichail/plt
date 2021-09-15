@@ -18,3 +18,4 @@
 6. [Лабораторная работа №232](https://github.com/EvgrafovMichail/plt/blob/main/232/matplotlib_lab_232.ipynb)
 7. [Лабораторная работа №233](https://github.com/EvgrafovMichail/plt/blob/main/matplotlib_lab_233.ipynb)
 8. [Лабораторная работа №2.1](https://github.com/EvgrafovMichail/plt/blob/main/2dot1/2dot1.ipynb)
+9. [Первое задание по математической статистике.](https://github.com/EvgrafovMichail/plt/blob/main/2task_graphs.ipynb)
