@@ -19,3 +19,4 @@
 7. [Лабораторная работа №233](https://github.com/EvgrafovMichail/plt/blob/main/matplotlib_lab_233.ipynb)
 8. [Лабораторная работа №2.1](https://github.com/EvgrafovMichail/plt/blob/main/2dot1/2dot1.ipynb)
 9. [Первое задание по математической статистике.](https://github.com/EvgrafovMichail/plt/blob/main/2task_graphs.ipynb)
+10. [История болезни. Температурный отчёт.](https://github.com/EvgrafovMichail/plt/tree/main/temperature_report)
